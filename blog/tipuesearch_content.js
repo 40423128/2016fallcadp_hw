@@ -1,0 +1,1 @@
+var tipuesearch = {"pages":[{"tags":"misc","title":"About","text":"2016Fall 修課成員網誌","url":"./pages/about/"},{"tags":"HW","title":"40423128 9/29作業","text":"40423128 9/29作業 錄製_2016_10_04_00_11_38_909 from Su Sam on Vimeo . 心得 : 這個軟體提供簡單的3D繪圖功能 並且公開程式原始碼讓使用者可自行編譯.","url":"./40423128-929zuo-ye.html"}]};
