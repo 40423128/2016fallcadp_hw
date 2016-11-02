@@ -42,7 +42,7 @@
 </v>
 </v>
 <v t="amd.20151215170326.1"><vh>以下在修改或查驗 plugin 目錄下的檔案</vh></v>
-<v t="amd.20151215154225.1"><vh>@path plugin</vh>
+<v t="amd.20151215154225.1" a="E"><vh>@path plugin</vh>
 <v t="amd.20151215154238.1" a="E"><vh>@path tipue_search</vh>
 <v t="amd.20151215154248.1"><vh>@edit tipue_search.py</vh></v>
 </v>
@@ -55,7 +55,9 @@
 <v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
 <v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
 <v t="amd.20160727114506.1" a="E"><vh>201609</vh>
+<v t="leo.20161102231923.1"><vh>@edit 20161102.md</vh></v>
 <v t="leo.20161006234714.1"><vh>@edit 20161006.md</vh></v>
+<v t="leo.20161102231903.1"><vh>@edit 20161027.md</vh></v>
 </v>
 </v>
 </v>
